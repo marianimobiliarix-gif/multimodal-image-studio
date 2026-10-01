@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Multimodal Image Studio",
+  "description": "A powerful AI-driven image generation and editing tool that uses Gemini 2.5 Flash to transform source images with custom prompts and artistic styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
